@@ -6,4 +6,4 @@ This is a photo album desktop app coded with java and javafx, as a project for C
 3. Implemented the UI elements and all features of the photo album for desktop with Java, JavaFX, and FXML, enabling users to manage accounts, make changes to albums and photos, and search for photos by tags or date ranges
 ```
 
-[An Android version is here](https://github.com/XiaoweiZhang-0/Android-Photo-Album)
+An Android version is [here](https://github.com/XiaoweiZhang-0/Android-Photo-Album)
